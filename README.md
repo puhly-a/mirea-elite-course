@@ -25,3 +25,9 @@
 **1. [Task list](/go-practice-01/cmd/task-summary/main.go)**
 
 ### Основные и дополнительные задания выполнены
+
+## Practice 3
+
+**1. [Task list with model](/go-practice-01/cmd/task-model/main.go)**
+
+### Основные и дополнительные задания выполнены
