@@ -6,7 +6,7 @@
 
 Версия Go: o version go1.27.4 darwin/arm64
 
-# Выполнено
+# Все практические занятия
 
 ## Practice 1
 
@@ -18,6 +18,10 @@
 
 **4. [Additional task](/go-practice-01/cmd/average/main.go)**
 
-### Все задания выполнены
+### Основные и дополнительные задания выполнены
 
 ## Practice 2
+
+**1. [Task list](/go-practice-01/cmd/task-summary/main.go)**
+
+### Основные и дополнительные задания выполнены
