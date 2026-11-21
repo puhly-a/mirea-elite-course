@@ -31,3 +31,9 @@
 **1. [Task list with model](/go-practice-01/cmd/task-model/main.go)**
 
 ### Основные и дополнительные задания выполнены
+
+## Practice 4
+
+**1. [Task list CLI version](/go-practice-01/cmd/task-cli/main.go)**
+
+### Основные и дополнительные задания выполнены
